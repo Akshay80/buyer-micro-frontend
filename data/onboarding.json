@@ -1,0 +1,102 @@
+[
+    {
+        "type": "buyerType",
+        "heading": "Hi, let's personalise your experience",
+        "subHeading": "Tell us about your Business",
+        "paragraph": "Which of the following best describes your business?",
+        "data": [
+            {
+                "label": "Individual",
+                "value": "INDIVIDUAL"
+            },
+            {
+                "label": "Online Retailer",
+                "value": "ONLINE_RETAILER"
+            },
+            {
+                "label": "Offline Retailer",
+                "value": "OFFLINE_RETAILER"
+            },
+            {
+                "label": "Service providers",
+                "value": "SERVICE_PROVIDER"
+            },
+            {
+                "label": "Wholesaler/Sourcing agent",
+                "value": "WHOLESALER"
+            },
+            {
+                "label": "Manufacturer",
+                "value": "MANUFACTURER"
+            },
+            {
+                "label": "Others",
+                "value": "OTHERS"
+            }
+        ]
+    },
+    {
+        "type": "categories",
+        "heading": "Let's help you with what you want",
+        "subHeading": "Add your top catgories",
+        "paragraph": "We will personalise your experience according to the categories you select.",
+        "data": [
+            {
+                "label": "Poultry",
+                "value": "Poultry"
+            },
+            {
+                "label": "Coffee",
+                "value": "Coffee"
+            },
+            {
+                "label": "Cotton",
+                "value": "Cotton"
+            },
+            {
+                "label": "Flowers",
+                "value": "Flowers"
+            },
+            {
+                "label": "Cocoa",
+                "value": "Cocoa"
+            },
+            {
+                "label": "Rubber",
+                "value": "Rubber"
+            },
+            {
+                "label": "Milk",
+                "value": "Milk"
+            },
+            {
+                "label": "Oil",
+                "value": "Oil"
+            },
+            {
+                "label": "Spices",
+                "value": "Spices"
+            },
+            {
+                "label": "Test Chillies",
+                "value": "Test Chillies"
+            },
+            {
+                "label": "Large Grains",
+                "value": "Large Grains"
+            },
+            {
+                "label": "Seeds",
+                "value": "Seeds"
+            },
+            {
+                "label": "Fruits",
+                "value": "Fruits"
+            },
+            {
+                "label": "Food Grains",
+                "value": "Food Grains"
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Fruits & Vegetables",
+    "icon": "icon-fruit",
+    "subcategories": [
+      "Fresh Vegetables",
+      "Herbs & Seasonings",
+      "Fresh Fruits",
+      "Organic Fruits & Vegetables",
+      "Cuts & Sprouts",
+      "Exotic Fruits & Veggies",
+      "Flower Bouquets, Bunches",
+      "Specialty"
+    ]
+  },
+  {
+    "title": "Snack & Munchies",
+    "icon": "icon-snack",
+    "subcategories": [
+      "Chips & Crisps",
+      "Nachos",
+      "Popcorn",
+      "Bhujia & Mixtures",
+      "Namkeen Snacks",
+      "Healthy Snacks",
+      "Cakes & Rolls",
+      "Energy Bars"
+    ]
+  }
+]

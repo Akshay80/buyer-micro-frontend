@@ -1,0 +1,51 @@
+[
+    {
+      "From": "China",
+      "Price": "8.90",
+      "Estimate": "2-3",
+      "DefaultLoad": "21kg",
+      "To": "India",
+      "Logistics": "Swift Logistics"
+    },
+    {
+      "From": "USA",
+      "Price": "12.50",
+      "Estimate": "3-4",
+      "DefaultLoad": "18kg",
+      "To": "Canada",
+      "Logistics": "Express Shipping"
+    },
+    {
+      "From": "Germany",
+      "Price": "9.75",
+      "Estimate": "1-2",
+      "DefaultLoad": "25kg",
+      "To": "France",
+      "Logistics": "Fast Delivery"
+    },
+    {
+      "From": "Japan",
+      "Price": "11.20",
+      "Estimate": "2-4",
+      "DefaultLoad": "20kg",
+      "To": "South Korea",
+      "Logistics": "Speedy Shipping"
+    },
+    {
+      "From": "Australia",
+      "Price": "7.80",
+      "Estimate": "2-3",
+      "DefaultLoad": "15kg",
+      "To": "New Zealand",
+      "Logistics": "Air Freight"
+    },
+    {
+      "From": "Spain",
+      "Price": "10.30",
+      "Estimate": "2-5",
+      "DefaultLoad": "22kg",
+      "To": "Italy",
+      "Logistics": "Euro Express"
+    }
+  ]
+  

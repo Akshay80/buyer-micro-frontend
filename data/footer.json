@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Get Support",
+    "links": [
+      { "text": "Help Center", "url": "/help-center" },
+      { "text": "Live Chat", "url": "/live" },
+      { "text": "Check Order Status", "url": "#!" },
+      { "text": "Refund", "url": "#!" }
+    ]
+  },
+  {
+    "title": "Trade Assurance",
+    "links": [
+      { "text": "Safe and easy payments", "url": "/safe-and-easy-payments" },
+      { "text": "Money-back policy", "url": "/money-back-policy" },
+      { "text": "On time shipping", "url": "/shipping-and-logisitcs" },
+      { "text": "After-sales protections", "url": "/after-sales-protection" },
+      { "text": "Product monitoring services", "url": "/production-monitoring" }
+    ]
+  },
+  {
+    "title": "Source on WorldTradeX",
+    "links": [
+      { "text": "Request for quotation", "url": "/request-for-quotation" },
+      { "text": "Membership program", "url": "https://seller.worldtradex.com" },
+      { "text": "WorldTradeX Logistics", "url": "/logistics" },
+      { "text": "Sales tax and VAT", "url": "/sales-tax" },
+      { "text": "WorldTradeX Reads", "url": "/reads" }
+    ]
+  },
+  {
+    "title": "Sell on WorldTradeX",
+    "links": [
+      { "text": "Start Selling", "url": "https://seller.worldtradex.com/signup" },
+      { "text": "Seller Central", "url": "https://seller.worldtradex.com/signup" },
+      { "text": "Become a Verified Supplier", "url": "https://seller.worldtradex.com/verified-supplier" },
+      { "text": "Partnerships", "url": "/partnership" },
+      { "text": "Download the app for suppliers", "url": "https://appdistribution.firebase.dev/i/4f8391a88051acde" }
+    ]
+  },
+  {
+    "title": "Get to know us",
+    "links": [
+      { "text": "About WorldTradeX", "url": "/about-us" },
+      { "text": "Corporate responsibility", "url": "https://worldtradex.com/" },
+      { "text": "News center", "url": "/news-center" },
+      { "text": "Careers", "url": "/career" }
+    ]
+  }
+]

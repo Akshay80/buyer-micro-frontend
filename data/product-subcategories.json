@@ -1,0 +1,131 @@
+ [
+    {
+      "imageUrl": "/img/Banana.jpg",
+      "title": "Banana",
+      "price": "1.99",
+      "originalPrice": "2.49",
+      "rating": 4.2
+    },
+    {
+      "imageUrl": "/img/Pear.jpg",
+      "title": "Pear",
+      "price": "2.99",
+      "rating": 4.6
+    },
+    {
+      "imageUrl": "/img/Spinach.webp",
+      "title": "Spinach",
+      "price": "3.49",
+      "originalPrice": "4.19",
+      "rating": 4.8
+    },
+    {
+      "imageUrl": "/img/Broccoli.jpg",
+      "title": "Broccoli",
+      "price": "2.79",
+      "originalPrice": "3.29",
+      "rating": 4.1
+    },
+    {
+      "imageUrl": "/img/Cucumber.jpg",
+      "title": "Cucumber",
+      "price": "1.49",
+      "rating": 4.5
+    },
+    {
+      "imageUrl": "/img/Carrot.webp",
+      "title": "Carrot",
+      "price": "1.99",
+      "rating": 4.3
+    },
+    {
+      "imageUrl": "/img/Red-pepper.jpg",
+      "title": "Red Pepper",
+      "price": "2.29",
+      "originalPrice": "2.79",
+      "rating": 4.7
+    },
+    {
+      "imageUrl": "/img/Green-peas.jpg",
+      "title": "Green Peas",
+      "price": "2.99",
+      "rating": 4.4
+    },
+    {
+      "imageUrl": "/img/Blueberry.jpg",
+      "title": "Blueberries",
+      "price": "4.99",
+      "rating": 4.9
+    },
+    {
+      "imageUrl": "/img/Strawberries.webp",
+      "title": "Strawberries",
+      "price": "3.99",
+      "originalPrice": "4.49",
+      "rating": 4.7
+    },
+    {
+      "imageUrl": "/img/Pineapple.jpg",
+      "title": "Pineapple",
+      "price": "5.99",
+      "rating": 4.6
+    },
+    {
+      "imageUrl": "/img/Asparagus.jpg",
+      "title": "Asparagus",
+      "price": "4.49",
+      "originalPrice": "5.29",
+      "rating": 4.2
+    },
+    {
+      "imageUrl": "/img/Zucchini.jpg",
+      "title": "Zucchini",
+      "price": "1.99",
+      "rating": 4.4
+    },
+    {
+      "imageUrl": "/img/Onion.webp",
+      "title": "Onion",
+      "price": "1.49",
+      "rating": 4.5
+    },
+    {
+      "imageUrl": "/img/Sweet-potato.jpg",
+      "title": "Sweet Potato",
+      "price": "2.79",
+      "originalPrice": "3.19",
+      "rating": 4.3
+    },
+    {
+      "imageUrl": "/img/Green-peas.jpg",
+      "title": "Peas",
+      "price": "2.49",
+      "rating": 4.6
+    },
+    {
+      "imageUrl": "/img/Cantaloupe.jpg",
+      "title": "Cantaloupe",
+      "price": "3.99",
+      "rating": 4.7
+    },
+    {
+      "imageUrl": "/img/Watermelon.jpg",
+      "title": "Watermelon",
+      "price": "4.99",
+      "rating": 4.8
+    },
+    {
+      "imageUrl": "/img/Cherry.jpg",
+      "title": "Cherry",
+      "price": "5.99",
+      "rating": 4.9
+    },
+    {
+      "imageUrl": "/img/Grapes.jpg",
+      "title": "Grapes",
+      "price": "3.99",
+      "rating": 4.7
+    }
+  ]
+
+  

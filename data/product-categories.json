@@ -1,0 +1,130 @@
+[
+    {
+      "imageUrl": "/img/Avocado.jpg",
+      "title": "Avocado",
+      "price": "199.99",
+      "originalPrice": "249.99",
+       "rating":4
+    },
+    {
+      "imageUrl": "/img/Fresh-Apple-1.jpg",
+      "title": "Apple",
+      "price": "29.99",
+      "rating":5
+    },
+    {
+      "imageUrl": "/img/Oregano.webp",
+      "title": "Oregano",
+      "price": "149.99",
+      "originalPrice": "179.99",
+      "rating":4
+    },
+    {
+      "imageUrl": "/img/Orange.jpg",
+      "title": "Orange",
+      "price": "99.99",
+      "originalPrice": "129.99",
+      "rating":3
+    },
+    {
+      "imageUrl": "/img/Sprouts.jpg",
+      "title": "Sprouts",
+      "price": "79.99",
+      "rating":4
+    },
+    {
+      "imageUrl": "/img/Kiwi.jpg",
+      "title": "Kiwi",
+      "price": "49.99",
+      "originalPrice": "59.99",
+      "rating":5
+    },
+    {
+      "imageUrl": "/img/Sunflower.jpg",
+      "title": "Sunflower",
+      "price": "179.99",
+      "rating":2
+    },
+    {
+      "imageUrl": "/img/Toned-milk.jpg",
+      "title": "Toned Milk",
+      "price": "39.99",
+      "rating":5
+    },
+    {
+      "imageUrl": "img/Fresh-cream.jpg",
+      "title": "Fresh Cream",
+      "price": "69.99",
+      "originalPrice": "79.99",
+      "rating":4
+    },
+    {
+      "imageUrl": "img/Cheddar.jpg",
+      "title": "Cheddar Cheese",
+      "price": "149.99",
+      "rating":3
+    },
+    {
+      "imageUrl": "img/White-butter.jpg",
+      "title": "Fresh White Butter",
+      "price": "59.99",
+      "originalPrice": "69.99",
+      "rating":5
+    },
+    {
+      "imageUrl": "img/organic-eggs.jpg",
+      "title": "Organic Eggs",
+      "price": "199.99",
+      "rating":2
+    },
+    {
+      "imageUrl": "img/Cottage-cheese.webp",
+      "title": "Cottage cheese",
+      "price": "79.99",
+      "rating":4
+    },
+    {
+      "imageUrl": "img/Wheat-bread.jpg",
+      "title": "Wheat Bread",
+      "price": "129.99",
+      "rating":3
+    },
+    {
+      "imageUrl": "img/Bagel.jpg",
+      "title": "Fresh Bagels",
+      "price": "69.99",
+      "rating":4
+    },
+    {
+      "imageUrl": "img/Penne-pasta.jpg",
+      "title": "Penne Pasta",
+      "price": "89.99",
+      "originalPrice": "109.99",
+      "rating":5
+    },
+    {
+      "imageUrl": "img/Multi-grain.jpg",
+      "title": "Multigrain Flour",
+      "price": "119.99",
+      "rating":2
+    },
+    {
+      "imageUrl": "img/Apple-jam.jpg",
+      "title": "Fresh Apple Jam",
+      "price": "69.99",
+      "rating":5
+    },
+    {
+      "imageUrl": "img/Tomato-sauce.jpg",
+      "title": "Organic Tomatoes Sauce",
+      "price": "149.99",
+      "originalPrice": "179.99",
+      "rating":2
+    },
+    {
+      "imageUrl": "img/Mango-jam.jpg",
+      "title": "Mango Jam",
+      "price": "59.99",
+      "rating":4
+    }
+]

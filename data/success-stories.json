@@ -1,0 +1,122 @@
+[
+    {
+      "imageSrc": "/img/random-person-1.jpg",
+      "category": "Beauty & care",
+      "title": "Beautifully Blending Customization and Quality",
+      "description": "I have been devoted to creating original products in the beauty industry, and WorldTradex has been my trusted partner in that process."
+    },
+    {
+      "imageSrc": "/img/random-person-2.jpg",
+      "category": "Health & wellness",
+      "title": "Quality Health Products for a Better Life",
+      "description": "Our commitment to producing top-notch health products has been unwavering, and WorldTradex has been instrumental in our journey."
+    },
+    {
+      "imageSrc": "/img/random-person-3.jpg",
+      "category": "Fashion & style",
+      "title": "Elevate Your Style with Our Exclusive Fashion Line",
+      "description": "We take pride in curating unique fashion pieces, and WorldTradex has helped us reach fashion enthusiasts worldwide."
+    },
+    {
+      "imageSrc": "/img/random-person-4.jpg",
+      "category": "Home & decor",
+      "title": "Transform Your Home with Our Premium Decor",
+      "description": "Creating stunning home decor items has been our passion, and WorldTradex has supported us in achieving that vision."
+    },
+    {
+      "imageSrc": "/img/random-person-5.jpg",
+      "category": "Technology & innovation",
+      "title": "Innovative Tech Solutions for the Modern World",
+      "description": "We're dedicated to technological advancements, and WorldTradex has been our partner in bringing innovation to life."
+    },
+    {
+      "imageSrc": "/img/random-person-6.jpg",
+      "category": "Travel & adventure",
+      "title": "Embark on Thrilling Adventures with Our Services",
+      "description": "Adventure is our core, and WorldTradex has helped us create unforgettable travel experiences."
+    },
+    {
+      "imageSrc": "/img/random-person-7.jpg",
+      "category": "Food & cuisine",
+      "title": "Delight Your Taste Buds with Culinary Masterpieces",
+      "description": "We're all about exquisite food, and WorldTradex has been our partner in delivering gastronomic delights."
+    },
+    {
+      "imageSrc": "/img/random-person-8.jpg",
+      "category": "Art & creativity",
+      "title": "Foster Creativity and Expression through Art",
+      "description": "We celebrate artistic expression, and WorldTradex has enabled us to share creativity with the world."
+    },
+    {
+      "imageSrc": "/img/random-person-9.jpg",
+      "category": "Sports & fitness",
+      "title": "A Healthy Lifestyle through Sports and Fitness",
+      "description": "Promoting fitness is our mission, and WorldTradex has supported us in encouraging an active lifestyle."
+    },
+    {
+      "imageSrc": "/img/random-person-10.jpg",
+      "category": "Education & learning",
+      "title": "Empower Minds through Education and Learning",
+      "description": "Education is the key, and WorldTradex has been a vital part of our mission to empower learners worldwide."
+    },
+    {
+        "imageSrc": "/img/random-person-11.jpg",
+        "category": "Pets & Animals",
+        "title": "Caring for Your Furry Friends",
+        "description": "Our love for animals is at the heart of our business, and WorldTradex has been a reliable partner in providing quality pet products."
+      },
+      {
+        "imageSrc": "/img/random-person-12.jpg",
+        "category": "Environmental Sustainability",
+        "title": "Sustainable Solutions for a Greener Planet",
+        "description": "We are committed to environmental sustainability, and WorldTradex has supported us in our mission to protect our planet."
+      },
+      {
+        "imageSrc": "/img/random-person-13.jpg",
+        "category": "Entertainment & Media",
+        "title": "Entertainment That Captivates Hearts",
+        "description": "Entertaining people is our passion, and WorldTradex has been instrumental in making our content accessible worldwide."
+      },
+      {
+        "imageSrc": "/img/random-person-14.jpg",
+        "category": "Automotive & Transport",
+        "title": "Ride in Style with Our Automotive Solutions",
+        "description": "We specialize in automotive innovation, and WorldTradex has helped us introduce cutting-edge solutions to the market."
+      },
+      {
+        "imageSrc": "/img/random-person-15.jpg",
+        "category": "Gaming & Recreation",
+        "title": "Level Up Your Gaming Experience",
+        "description": "We're dedicated to providing top-notch gaming and recreational experiences, and WorldTradex has been a key partner in our success."
+      },
+      {
+        "imageSrc": "/img/random-person-16.jpg",
+        "category": "Social Causes & Charity",
+        "title": "Make a Difference in the World",
+        "description": "Our mission is to support social causes and charity, and WorldTradex has helped us in our endeavors to make the world a better place."
+      },
+      {
+        "imageSrc": "/img/random-person-17.jpg",
+        "category": "Science & Research",
+        "title": "Advancing Scientific Discovery",
+        "description": "We are at the forefront of scientific research, and WorldTradex has been a crucial partner in funding our important projects."
+      },
+      {
+        "imageSrc": "/img/random-person-18.jpg",
+        "category": "Weddings & Events",
+        "title": "Crafting Memorable Wedding Experiences",
+        "description": "We specialize in creating unforgettable wedding and event experiences, and WorldTradex has helped us in achieving this goal."
+      },
+      {
+        "imageSrc": "/img/random-person-19.jpg",
+        "category": "Real Estate & Housing",
+        "title": "Find Your Dream Home with Us",
+        "description": "Our expertise is in real estate, and WorldTradex has been instrumental in connecting people with their dream homes."
+      },
+      {
+        "imageSrc": "/img/random-person-20.jpg",
+        "category": "Finance & Investment",
+        "title": "Secure Your Financial Future",
+        "description": "We are dedicated to helping individuals secure their financial future, and WorldTradex has been a trusted partner in our financial services."
+      }
+  ]

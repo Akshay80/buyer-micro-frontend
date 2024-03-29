@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Sprouts",
+      "image": "/img/Sprouts.jpg",
+      "price": "$5.99"
+    },
+    {
+      "id": "2",
+      "name": "Nutri Digestive",
+      "image": "/img/Sunflower.jpg",
+      "price": "$2.49"
+    },
+    {
+      "id": "3",
+      "name": "Strawberry",
+      "image": "/img/Strawberries.webp",
+      "price": "$1.99"
+    },
+    {
+      "id": "4",
+      "name": "Orange",
+      "image": "/img/Orange.jpg",
+      "price": "$1.25"
+    },
+    {
+      "id": "5",
+      "name": "Watemelon",
+      "image": "/img/Watermelon.jpg",
+      "price": "$3.79"
+    }
+]

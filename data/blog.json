@@ -1,0 +1,98 @@
+[
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-1.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Optimizing Crop Yields: Best Practices",
+    "description": "Learn about the latest techniques and technologies for maximizing crop yields and improving agricultural productivity.",
+    "date": "22 April 2023",
+    "readTime": "12min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-2.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Organic Farming: Sustainable Agriculture",
+    "description": "Discover the benefits of organic farming and how it contributes to sustainable and eco-friendly agricultural practices.",
+    "date": "15 May 2023",
+    "readTime": "10min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-3.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Raising Healthy Livestock: Tips for Farmers",
+    "description": "Explore essential tips and best practices for maintaining the health and well-being of your livestock on the farm.",
+    "date": "7 June 2023",
+    "readTime": "8min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-4.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Precision Agriculture and IoT: A Revolution",
+    "description": "Learn how precision agriculture and IoT technologies are transforming the way farmers manage their fields and resources.",
+    "date": "3 July 2023",
+    "readTime": "15min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-5.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Farm-to-Table Movement: Connecting Consumers",
+    "description": "Discover how the farm-to-table movement is bridging the gap between farmers and consumers, emphasizing fresh and local produce.",
+    "date": "18 August 2023",
+    "readTime": "14min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-6.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Soil Health and Fertilization Strategies",
+    "description": "Explore effective soil health management and fertilization strategies to ensure the productivity and sustainability of your farm.",
+    "date": "11 September 2023",
+    "readTime": "9min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-7.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Agricultural Innovations: Future of Farming",
+    "description": "Stay updated on the latest agricultural innovations and how they are shaping the future of the farming industry.",
+    "date": "29 October 2023",
+    "readTime": "11min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-8.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Pest Control in Agriculture: Effective Strategies",
+    "description": "Learn about pest control methods and strategies to protect your crops and ensure a bountiful harvest.",
+    "date": "14 November 2023",
+    "readTime": "13min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-9.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Agricultural Sustainability Practices",
+    "description": "Discover sustainable farming practices and how they benefit both the environment and the agricultural industry.",
+    "date": "6 December 2023",
+    "readTime": "10min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-10.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Modernizing Farm Management: Digital Tools",
+    "description": "Explore the digital tools and technologies that are modernizing farm management, from crop monitoring to inventory control.",
+    "date": "19 January 2024",
+    "readTime": "16min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-11.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Pest Control in Agriculture: Effective Strategies",
+    "description": "Learn about pest control methods and strategies to protect your crops and ensure a bountiful harvest.",
+    "date": "14 November 2023",
+    "readTime": "13min"
+  },
+  {
+    "imageSrc": "https://cdn.worldtradex.com/img/blog-20.jpg",
+    "imageClassName": "img-fluid w-100",
+    "title": "Pest Control in Agriculture: Effective Strategies",
+    "description": "Learn about pest control methods and strategies to protect your crops and ensure a bountiful harvest.",
+    "date": "14 November 2023",
+    "readTime": "13min"
+  }
+]

@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Haldiram Bhujia",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg",
+      "price": "$5.99"
+    },
+    {
+      "id": "2",
+      "name": "Nutri Digestive",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
+      "price": "$2.49"
+    },
+    {
+      "id": "3",
+      "name": "Cadbury 5 Star",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-3.jpg",
+      "price": "$1.99"
+    },
+    {
+      "id": "4",
+      "name": "Onion Flavour Lays",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-4.jpg",
+      "price": "$1.25"
+    },
+    {
+      "id": "5",
+      "name": "Salted Instant Popcorn",
+      "image": "https://freshcart.codescandy.com/assets/images/products/product-img-5.jpg",
+      "price": "$3.79"
+    }
+]
